@@ -1,0 +1,86 @@
+Frage 1:
+Aus welchem Land stammte Vincent van Gogh?
+1 = Frankreich
+2 = Niederlande
+3 = Deutschland
+2
+
+Frage 2:
+In welcher Einheit wird der elektrische Widerstand gemessen?
+1 = Ohm
+2 = Volt
+3 = Ampere
+1
+
+Frage 3:
+Welche Gürtelfarbe existiert nicht im Kampfsport Karate?
+1 = Rot
+2 = Weiß
+3 = Braun
+1
+
+Frage 4:
+Wie viele Planeten hat unser Sonnensystem?
+1 = 10
+2 = 9
+3 = 8
+3
+
+Frage = 5
+Wie viel Prozent der Erde sind circa von Wasser bedeckt?
+1 = 60%
+2 = 70%
+3 = 80%
+2
+
+Frage = 6
+Wie beginnt die Kreiszahl Pi (π)?
+1 = 3,1415
+2 = 2,8485
+3 = 1,3435
+1
+
+Frage = 7
+Wer schrieb den „Erlkönig“?
+1 = Friedrich Schiller
+2 = Johann Wolfgang von Goethe
+3 = Günther Grass
+2
+
+Frage = 8
+Wer hat Herr der Ringe geschrieben?
+1 = E.L. James
+2 = Joanne K. Rowling
+3 = J.R.R. Tolkien
+3
+
+Frage = 9
+Was ist der nächste Planet an der Sonne?
+1 = Merkur
+2 = Venus
+3 = Mars
+1
+
+Frage 10:
+Welche ansteckende Krankheit entvölkerte im Mittelalter halb Europa?
+1 = Typhus
+2 = Pest
+3 = Cholera
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

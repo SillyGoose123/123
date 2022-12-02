@@ -1,0 +1,66 @@
+String question1 = scanner.nextLine();
+				int numberInt1 = Integer.parseInt(question1);
+				while (Schleife2) {
+					switch (numberInt1) {
+					case 1:
+						System.out.println("Falsch du erhälst keinen Punkt.");
+						Schleife2 = false;
+						break;
+					case 2:
+						System.out.println("Richtig du erhälst einen Punkt.");
+						points += 1;
+						Schleife2 = false;
+						break;
+					case 3:
+						System.out.println("Falsch du erhälst keinen Punkt.");
+						Schleife2 = false;
+						break;
+
+
+
+case 10:
+					System.out.println("Du hast Gewonnen");
+					break;
+				case 9:
+					System.out.println("Du hast fast Gewonnen weiter so!");
+					break;
+				case 8:
+					System.out.println("Du hast verloren!");
+					break;
+				case 7:
+					System.out.println("Du hast verloren!");
+					break;
+				case 6:
+					System.out.println("Du hast verloren!");
+					break;
+				case 5:
+					System.out.println("Du hast verloren!");
+					break;
+				case 4:
+					System.out.println("Du hast verloren!");
+					break;
+				case 3:
+					System.out.println("Du hast verloren!");
+					break;
+				case 2:
+					System.out.println("Du hast verloren!");
+					break;
+				case 1:
+					System.out.println("Du hast verloren!");
+					Schleife_Win_Or_Not = false;
+					break;
+			
+}
+
+
+frage 
+Welche Fleischsorte war ursprünglich in einer echten Salami enthalten?
+1 = Eselsfleisch
+2 = Pferdefleisch
+3 = Lammfleisch
+1
+
+
+
+
+
