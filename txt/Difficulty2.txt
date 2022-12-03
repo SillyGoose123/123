@@ -1,3 +1,4 @@
+
 Frage 1:
 Aus welchem Land stammte Vincent van Gogh?
 1 = Frankreich
@@ -13,9 +14,9 @@ In welcher Einheit wird der elektrische Widerstand gemessen?
 1
 
 Frage 3:
-Welche Gürtelfarbe existiert nicht im Kampfsport Karate?
+Welche Guertelfarbe existiert nicht im Kampfsport Karate?
 1 = Rot
-2 = Weiß
+2 = Weiss
 3 = Braun
 1
 
@@ -41,7 +42,7 @@ Wie beginnt die Kreiszahl Pi (π)?
 1
 
 Frage = 7
-Wer schrieb den „Erlkönig“?
+Wer schrieb den Erlkoenig?
 1 = Friedrich Schiller
 2 = Johann Wolfgang von Goethe
 3 = Günther Grass
@@ -55,14 +56,14 @@ Wer hat Herr der Ringe geschrieben?
 3
 
 Frage = 9
-Was ist der nächste Planet an der Sonne?
+Was ist der naechste Planet an der Sonne?
 1 = Merkur
 2 = Venus
 3 = Mars
 1
 
 Frage 10:
-Welche ansteckende Krankheit entvölkerte im Mittelalter halb Europa?
+Welche ansteckende Krankheit entvoelkerte im Mittelalter halb Europa?
 1 = Typhus
 2 = Pest
 3 = Cholera

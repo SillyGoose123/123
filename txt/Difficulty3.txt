@@ -1,7 +1,8 @@
+
 Frage 1:
-Welche Farbe haben die Häuser beim Monopoly?
+Welche Farbe haben die Haeuser beim Monopoly?
 1 = Rot
-2 = Grün
+2 = Gruen
 3 = Blau
 2
 
@@ -13,21 +14,21 @@ Wo wurde Wolfgang Amadeus Mozart geboren?
 1
 
 Frage 3:
-Wie heißt der in Milch enthaltene Zucker?
+Wie heisst der in Milch enthaltene Zucker?
 1 = Fructose
 2 = Lactose
 3 = Tetrose
 2
 
 Frage 4:
-Welches Vitamin wird dringend benötigt, wenn man Skorbut hat?
+Welches Vitamin wird dringend benoetigt, wenn man Skorbut hat?
 1 = C
 2 = D
 3 = A
 1
 
 Frage 5:
-Welche Stadt besitzt das längste U-Bahn-Netz der Welt?
+Welche Stadt besitzt das laengste U-Bahn-Netz der Welt?
 1 = New York
 2 = London
 3 = Shanghai
@@ -46,66 +47,24 @@ Welche Eissorte wird aus Orchideen hergestellt?
 2 = Vanille
 3 = Waldmeister
 1
+
 Frage 8:
-Welche Fleischsorte war ursprünglich in einer echten Salami enthalten?
+Welche Fleischsorte war urspruenglich in einer echten Salami enthalten?
 1 = Eselsfleisch
 2 = Pferdefleisch
 3 = Lammfleisch
 1
 
 Frage 9:
-Welche Maßeinheit folgt auf Tera?
+Welche Masseinheit folgt auf Tera?
 1 = Exa
 2 = Giga
 3 = Peta
 2
 
 Frage 10:
-Wie nennt man das Unvermögen, Harn und Stuhlgang zurückzuhalten?
+Wie nennt man das Unvermoegen, Harn und Stuhlgang zurueckzuhalten?
 1 = Inkontinenz
 2 = Impertinenz
 3 = Influenz
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1

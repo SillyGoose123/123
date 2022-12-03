@@ -16,32 +16,34 @@ public class eins_zwei_oder_drei {
 			switch (checkinput.ScaninputForStart()) {
 			case 1:
 				System.out.println("Du Waehlst Leicht");
-            Diff1.Start();
+            Runner.Start("Difficulty1");
             break;
 			case 2:
-				System.out.println("Du Waehlst Mittel");			
+				System.out.println("Du Waehlst Mittel");	
+				Runner.Start("Difficulty2");
 				break;
 			case 3:
 				System.out.println("Du Waehlst Schwer");
+				Runner.Start("Difficulty3");
 				break;
 		}
-			
-			
+				
 	}
 		
 		
-	public void nextgame(){
+	public static void nextgame(){
+		System.out.println("--------------------------");
 		System.out.println("Willst du erneut Spielen?");
+		System.out.println("1 = Ja");
+		System.out.println("2 = Nein");
 		if(checkinput.JaNein() == true) {
 			System.out.println("Es freut mich das ernuet spielen wollen");
 			Play();
 		} else {
-			System.out.println("Ich hoffe du hattest spaß auf Wiedersehen");
+			System.out.println("Ich hoffe du hattest spass auf Wiedersehen");
 			System.exit(0);
 		}
 		
 	}
-
-//test
 
 }
