@@ -14,7 +14,7 @@ Wie nennt man einen Computerneustart?
 3
 
 Frage 3:
-Wie nennt man jemanden der fuer einen Filmstar die gefaehrlichen Szenen dreht?
+Wie nennt man jemanden, der fuer einen Filmstar die gefaehrlichen Szenen dreht?
 1 = Stuntman
 2 = Actionnist
 3 = Actionman
@@ -35,14 +35,14 @@ Wie heisst der Hund aus TKKG?
 1
 
 Frage 6:
-Wie heisst das Kind mit der Klatze?
+Wie heisst das Kind mit der Glatze?
 1 = Ines
 2 = Calliou
 3 = Manon
 2
 
 Frage 7:
-Wie heisst die rote Figur aus Sesamstraße?
+Wie heisst die rote Figur aus Sesamstrasse?
 1 = Elmo
 2 = Ernie
 3 = Grobi
@@ -63,8 +63,8 @@ Wie heisst der Hund aus Paw Patrol der kein Wasser mag?
 1
 
 Frage 10:
-Wie heisst der blaue blitz Ninja aus lego Ninjago?
+Wie heisst der blaue Blitz Ninja aus Lego Ninjago?
 1 = Jay Walker
 2 = Kai Smith 
 3 = Nya Smith
-2
+1
