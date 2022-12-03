@@ -2,36 +2,47 @@ import java.util.Scanner;
 
 public class checkinput {
 	static Scanner scanner = new Scanner(System.in);
+	private static int number;
+	
 public static boolean Scaninput(int SoulutionLine) {
 	String input = scanner.nextLine();
 	String soulutionString = TXTLoader.TXTList.get(SoulutionLine);
 	int SloutionNumb = Integer.parseInt(soulutionString.trim());
 	boolean S = true;
-	while(S  == true) {
-		int number = Integer.parseInt(input.trim());
-		if(number < 4) {
-			if(number == SloutionNumb) {
-				System.out.println("Richtig du erhälst einen Punkt");
-				return true;
-			} else {
-				System.out.println("Falsch du erhälst keinen Punkt , Richtig wäre " + SloutionNumb);
-				return false;
+	while (true) {
+		while(S) {
+			try {
+				number = Integer.parseInt(input.trim());
+				S = false;
+			} catch (java.lang.NumberFormatException e) {
+				// TODO: handle exception
+				System.out.println("Schreibe eine Zahl zischen 1 und 3.");
+				input = scanner.nextLine();
 			}
 			
-		} else 
-			System.out.println("Number hat einen anderen Wert als 1,2,3 gebe erneut eine zahl ein");
-			input = scanner.nextLine();
-			
+		}
+		
+	
+			if(number < 4) {
+				if(number == SloutionNumb) {
+					System.out.println("Richtig du erhaelst einen Punkt");
+					return true;
+				} else {
+					System.out.println("Falsch du erhaelst keinen Punkt , Richtig waere " + SloutionNumb);
+					return false;
+				}
+				
+			} else 
+				System.out.println("Number hat einen anderen Wert als 1,2,3 gebe erneut eine zahl ein");
+				input = scanner.nextLine();
+				S = true;
 	}
-	return false;
-}
+} 
 	
 
 
 public static boolean JaNein() {
 	String input = scanner.nextLine();
-	System.out.println("1 = Ja");
-	System.out.println("2 = Nein");
 	while (true) {
 		int number = -1;
 		try {
