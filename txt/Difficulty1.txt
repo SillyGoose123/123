@@ -7,7 +7,7 @@ Aus welcher Triologie Stammt dieser Satz: I'm your Father
 2
 
 Frage 2:
-Wie nemmt man einen Computerneustart?
+Wie nennt man einen Computerneustart?
 1 = Restart
 2 = Reload
 3 = Reboot
