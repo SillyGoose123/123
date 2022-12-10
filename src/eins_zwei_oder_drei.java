@@ -1,4 +1,3 @@
-
 public class eins_zwei_oder_drei {
 	public static int points = 0;
 	
